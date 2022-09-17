@@ -1,6 +1,6 @@
-package com.example.sheetmusiclist.config.entity.member;
+package com.example.sheetmusiclist.entity.member;
 
-import com.example.sheetmusiclist.config.entity.common.EntityDate;
+import com.example.sheetmusiclist.entity.common.EntityDate;
 import lombok.AccessLevel;
 import lombok.Builder;
 import lombok.Getter;
